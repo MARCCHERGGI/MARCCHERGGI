@@ -2,6 +2,15 @@
 
 Solo builder in NYC. I run autonomous AI agent systems in production — and build the verification layer that checks what they actually did versus what they claimed.
 
+![Python](https://img.shields.io/badge/Python-111.svg?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111.svg?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111.svg?logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111.svg?logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111.svg?logo=modelcontextprotocol&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111.svg?logo=opencv&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111.svg?logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111.svg?logo=supabase&logoColor=white)
+
 **Now:** shipping the agent fleet that runs a one-person company, and documenting the whole thing on [A New York Diary](https://www.youtube.com/@MarcoHergi).
 
 ### Selected work
