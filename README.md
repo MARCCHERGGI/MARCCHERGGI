@@ -13,6 +13,9 @@ Solo builder in NYC. I run autonomous AI agent systems in production — and bui
 
 **Now:** shipping the agent fleet that runs a one-person company, and documenting the whole thing on [A New York Diary](https://www.youtube.com/@MarcoHergi).
 
+**Open to Applied AI / agent-infrastructure roles — New York, NY or remote.**
+[Resume (PDF)](https://marco-apply-now.vercel.app/Marco-Hergi-Resume.pdf) · [Book a 30-min call](https://calendly.com/hergienterprises/intro-call-30-min)
+
 ### Selected work
 
 | | |
@@ -28,4 +31,4 @@ Also: [jarvis-home](https://github.com/MARCCHERGGI/jarvis-home) (cinematic AI de
 
 ### Elsewhere
 
-[Instagram](https://www.instagram.com/marcohergi) · [YouTube](https://www.youtube.com/@MarcoHergi) · [X](https://x.com/MarcoHergi) · [LinkedIn](https://www.linkedin.com/in/marcohergi/) · [marco-hergi.vercel.app](https://marco-hergi.vercel.app)
+[marco-hergi.vercel.app](https://marco-hergi.vercel.app) · [Resume (PDF)](https://marco-apply-now.vercel.app/Marco-Hergi-Resume.pdf) · [Book a 30-min call](https://calendly.com/hergienterprises/intro-call-30-min) · [LinkedIn](https://www.linkedin.com/in/marcohergi/) · [Instagram](https://www.instagram.com/marcohergi) · [YouTube](https://www.youtube.com/@MarcoHergi) · [X](https://x.com/MarcoHergi)
