@@ -29,6 +29,21 @@ Solo builder in NYC. I run autonomous AI agent systems in production — and bui
 
 Also: [jarvis-home](https://github.com/MARCCHERGGI/jarvis-home) (cinematic AI desktop UI) · [aura](https://github.com/MARCCHERGGI/aura) (33-script autonomous agent system, 24/7) · [linkshield](https://github.com/MARCCHERGGI/linkshield) (9-layer link protection)
 
+### Field notes from running agents 24/7
+
+Five short repos, written from an agent fleet that has been running continuously on one
+laptop for months. Every pattern names the failure that produced it and the measurement that
+caught it — these are not designs, they are scar tissue. 92 tests between them, each one a
+regression for a bug that actually shipped.
+
+| | |
+|---|---|
+| [**always-on-agent-patterns**](https://github.com/MARCCHERGGI/always-on-agent-patterns) | 14 patterns for running an agent on a machine you also use. Why watchers are timers and not daemons; how a FIFO dedup cap made the busiest lane forget fastest. |
+| [**evidence-gates**](https://github.com/MARCCHERGGI/evidence-gates) | A self-improving agent cannot grade its own homework. Ladder gates that open only on external evidence and fail closed on outage. |
+| [**agent-authority**](https://github.com/MARCCHERGGI/agent-authority) | Letting an agent act without asking, and still sleeping. Standing authority + a short gated list + kill files that outrank instructions. |
+| [**honest-funnel-metrics**](https://github.com/MARCCHERGGI/honest-funnel-metrics) | Your analytics are probably counting you. Six ways a growth metric measures your own activity — and all six inflate it, which is not a coincidence. |
+| [**windows-agent-ops**](https://github.com/MARCCHERGGI/windows-agent-ops) | The half nobody writes: 24/7 agents on Windows. Twelve silent-failure modes, plus a preflight checker for your task fleet. |
+
 ### Elsewhere
 
 [marco-hergi.vercel.app](https://marco-hergi.vercel.app) · [Resume (PDF)](https://marco-apply-now.vercel.app/Marco-Hergi-Resume.pdf) · [Book a 30-min call](https://calendly.com/hergienterprises/intro-call-30-min) · [LinkedIn](https://www.linkedin.com/in/marcohergi/) · [Instagram](https://www.instagram.com/marcohergi) · [YouTube](https://www.youtube.com/@MarcoHergi) · [X](https://x.com/MarcoHergi)
